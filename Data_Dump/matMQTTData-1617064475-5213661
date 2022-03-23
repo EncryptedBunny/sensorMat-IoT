@@ -1,0 +1,2071 @@
+{
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	18,
+	"TimeStampUsec":	32842,
+	"FrameNumber":	0,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	19,
+	"TimeStampUsec":	893220,
+	"FrameNumber":	1,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	111638,
+	"FrameNumber":	2,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	121905,
+	"FrameNumber":	3,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	132459,
+	"FrameNumber":	4,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	141950,
+	"FrameNumber":	5,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	152910,
+	"FrameNumber":	6,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	162928,
+	"FrameNumber":	7,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	174272,
+	"FrameNumber":	8,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	184041,
+	"FrameNumber":	9,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	193974,
+	"FrameNumber":	10,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	661663,
+	"FrameNumber":	11,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	951634,
+	"FrameNumber":	12,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	961919,
+	"FrameNumber":	13,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	971960,
+	"FrameNumber":	14,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	981956,
+	"FrameNumber":	15,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	20,
+	"TimeStampUsec":	991976,
+	"FrameNumber":	16,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	2065,
+	"FrameNumber":	17,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	11981,
+	"FrameNumber":	18,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	23375,
+	"FrameNumber":	19,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	33089,
+	"FrameNumber":	20,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	811600,
+	"FrameNumber":	21,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	961591,
+	"FrameNumber":	22,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	971915,
+	"FrameNumber":	23,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	21,
+	"TimeStampUsec":	981995,
+	"FrameNumber":	24,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	22,
+	"TimeStampUsec":	867561,
+	"FrameNumber":	25,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	22,
+	"TimeStampUsec":	875613,
+	"FrameNumber":	26,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	22,
+	"TimeStampUsec":	881034,
+	"FrameNumber":	27,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	22,
+	"TimeStampUsec":	885766,
+	"FrameNumber":	28,
+	"Occupancy":	[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	74326,
+	"FrameNumber":	29,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	83885,
+	"FrameNumber":	30,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	94070,
+	"FrameNumber":	31,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	104005,
+	"FrameNumber":	32,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	114941,
+	"FrameNumber":	33,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	124957,
+	"FrameNumber":	34,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	134973,
+	"FrameNumber":	35,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	178127,
+	"FrameNumber":	36,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	459205,
+	"FrameNumber":	37,
+	"Occupancy":	[1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	571860,
+	"FrameNumber":	38,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	861658,
+	"FrameNumber":	39,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	872603,
+	"FrameNumber":	40,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	882951,
+	"FrameNumber":	41,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	892000,
+	"FrameNumber":	42,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	903940,
+	"FrameNumber":	43,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	913978,
+	"FrameNumber":	44,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	923955,
+	"FrameNumber":	45,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	934851,
+	"FrameNumber":	46,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	23,
+	"TimeStampUsec":	948958,
+	"FrameNumber":	47,
+	"Occupancy":	[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	483005,
+	"FrameNumber":	48,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	801850,
+	"FrameNumber":	49,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	811876,
+	"FrameNumber":	50,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	822003,
+	"FrameNumber":	51,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	831940,
+	"FrameNumber":	52,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	842929,
+	"FrameNumber":	53,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	852955,
+	"FrameNumber":	54,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	863030,
+	"FrameNumber":	55,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	873661,
+	"FrameNumber":	56,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	24,
+	"TimeStampUsec":	884012,
+	"FrameNumber":	57,
+	"Occupancy":	[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	31662,
+	"FrameNumber":	58,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	381687,
+	"FrameNumber":	59,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	391993,
+	"FrameNumber":	60,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	402955,
+	"FrameNumber":	61,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	412979,
+	"FrameNumber":	62,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	422968,
+	"FrameNumber":	63,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	432956,
+	"FrameNumber":	64,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	444755,
+	"FrameNumber":	65,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	455032,
+	"FrameNumber":	66,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	465012,
+	"FrameNumber":	67,
+	"Occupancy":	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	25,
+	"TimeStampUsec":	921783,
+	"FrameNumber":	68,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	571655,
+	"FrameNumber":	69,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	581938,
+	"FrameNumber":	70,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	591975,
+	"FrameNumber":	71,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	601957,
+	"FrameNumber":	72,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	611953,
+	"FrameNumber":	73,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	621961,
+	"FrameNumber":	74,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	636647,
+	"FrameNumber":	75,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	645441,
+	"FrameNumber":	76,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	654990,
+	"FrameNumber":	77,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	26,
+	"TimeStampUsec":	951869,
+	"FrameNumber":	78,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	331651,
+	"FrameNumber":	79,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	341914,
+	"FrameNumber":	80,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	351995,
+	"FrameNumber":	81,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	362031,
+	"FrameNumber":	82,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	373718,
+	"FrameNumber":	83,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	383997,
+	"FrameNumber":	84,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	394728,
+	"FrameNumber":	85,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	405213,
+	"FrameNumber":	86,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	27,
+	"TimeStampUsec":	414987,
+	"FrameNumber":	87,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	1630,
+	"FrameNumber":	88,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	391713,
+	"FrameNumber":	89,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	404335,
+	"FrameNumber":	90,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	413939,
+	"FrameNumber":	91,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	423983,
+	"FrameNumber":	92,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	433995,
+	"FrameNumber":	93,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	443943,
+	"FrameNumber":	94,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	453955,
+	"FrameNumber":	95,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	464500,
+	"FrameNumber":	96,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	473619,
+	"FrameNumber":	97,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	30,
+	"TimeStampUsec":	961664,
+	"FrameNumber":	98,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	343156,
+	"FrameNumber":	99,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	353072,
+	"FrameNumber":	100,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	362966,
+	"FrameNumber":	101,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	372952,
+	"FrameNumber":	102,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	382956,
+	"FrameNumber":	103,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	392954,
+	"FrameNumber":	104,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	402985,
+	"FrameNumber":	105,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	412605,
+	"FrameNumber":	106,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	31,
+	"TimeStampUsec":	423904,
+	"FrameNumber":	107,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	34,
+	"TimeStampUsec":	971648,
+	"FrameNumber":	108,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	401652,
+	"FrameNumber":	109,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	413829,
+	"FrameNumber":	110,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	422581,
+	"FrameNumber":	111,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	435389,
+	"FrameNumber":	112,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	444470,
+	"FrameNumber":	113,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	453939,
+	"FrameNumber":	114,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	463928,
+	"FrameNumber":	115,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	473937,
+	"FrameNumber":	116,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	35,
+	"TimeStampUsec":	483962,
+	"FrameNumber":	117,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	461670,
+	"FrameNumber":	118,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	771701,
+	"FrameNumber":	119,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	781926,
+	"FrameNumber":	120,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	791967,
+	"FrameNumber":	121,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	801926,
+	"FrameNumber":	122,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	811939,
+	"FrameNumber":	123,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	821937,
+	"FrameNumber":	124,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	835447,
+	"FrameNumber":	125,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	845066,
+	"FrameNumber":	126,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	36,
+	"TimeStampUsec":	854980,
+	"FrameNumber":	127,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	38,
+	"TimeStampUsec":	441642,
+	"FrameNumber":	128,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	481643,
+	"FrameNumber":	129,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	491996,
+	"FrameNumber":	130,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	502865,
+	"FrameNumber":	131,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	512963,
+	"FrameNumber":	132,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	522928,
+	"FrameNumber":	133,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	533097,
+	"FrameNumber":	134,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	542961,
+	"FrameNumber":	135,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	554887,
+	"FrameNumber":	136,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	40,
+	"TimeStampUsec":	564991,
+	"FrameNumber":	137,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	41,
+	"TimeStampUsec":	681967,
+	"FrameNumber":	138,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	403293,
+	"FrameNumber":	139,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	413013,
+	"FrameNumber":	140,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	423890,
+	"FrameNumber":	141,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	433948,
+	"FrameNumber":	142,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	443936,
+	"FrameNumber":	143,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	453936,
+	"FrameNumber":	144,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	463935,
+	"FrameNumber":	145,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	474934,
+	"FrameNumber":	146,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	486872,
+	"FrameNumber":	147,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	498581,
+	"FrameNumber":	148,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	741667,
+	"FrameNumber":	149,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	751894,
+	"FrameNumber":	150,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	761967,
+	"FrameNumber":	151,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	771964,
+	"FrameNumber":	152,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	800875,
+	"FrameNumber":	153,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	809172,
+	"FrameNumber":	154,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	814994,
+	"FrameNumber":	155,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	819763,
+	"FrameNumber":	156,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	42,
+	"TimeStampUsec":	825045,
+	"FrameNumber":	157,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	301600,
+	"FrameNumber":	158,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	541735,
+	"FrameNumber":	159,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	551919,
+	"FrameNumber":	160,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	561981,
+	"FrameNumber":	161,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	571937,
+	"FrameNumber":	162,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	581970,
+	"FrameNumber":	163,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	591940,
+	"FrameNumber":	164,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	602381,
+	"FrameNumber":	165,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	615824,
+	"FrameNumber":	166,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	43,
+	"TimeStampUsec":	625993,
+	"FrameNumber":	167,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	11665,
+	"FrameNumber":	168,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	241640,
+	"FrameNumber":	169,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	252012,
+	"FrameNumber":	170,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	261988,
+	"FrameNumber":	171,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	271972,
+	"FrameNumber":	172,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	283447,
+	"FrameNumber":	173,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	292156,
+	"FrameNumber":	174,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	302005,
+	"FrameNumber":	175,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	311965,
+	"FrameNumber":	176,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	321980,
+	"FrameNumber":	177,
+	"Occupancy":	[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	621644,
+	"FrameNumber":	178,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	871750,
+	"FrameNumber":	179,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	882726,
+	"FrameNumber":	180,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	892987,
+	"FrameNumber":	181,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	902953,
+	"FrameNumber":	182,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	912966,
+	"FrameNumber":	183,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	922953,
+	"FrameNumber":	184,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	933239,
+	"FrameNumber":	185,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	944883,
+	"FrameNumber":	186,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	44,
+	"TimeStampUsec":	953971,
+	"FrameNumber":	187,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	391651,
+	"FrameNumber":	188,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	401906,
+	"FrameNumber":	189,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	411972,
+	"FrameNumber":	190,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	421937,
+	"FrameNumber":	191,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	431946,
+	"FrameNumber":	192,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	441948,
+	"FrameNumber":	193,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	451970,
+	"FrameNumber":	194,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	462935,
+	"FrameNumber":	195,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	45,
+	"TimeStampUsec":	472012,
+	"FrameNumber":	196,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	541662,
+	"FrameNumber":	197,
+	"Occupancy":	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	562364,
+	"FrameNumber":	198,
+	"Occupancy":	[0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	582316,
+	"FrameNumber":	199,
+	"Occupancy":	[0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	611703,
+	"FrameNumber":	200,
+	"Occupancy":	[0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	621926,
+	"FrameNumber":	201,
+	"Occupancy":	[0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	632002,
+	"FrameNumber":	202,
+	"Occupancy":	[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	46,
+	"TimeStampUsec":	651755,
+	"FrameNumber":	203,
+	"Occupancy":	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	47,
+	"TimeStampUsec":	31663,
+	"FrameNumber":	204,
+	"Occupancy":	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	47,
+	"TimeStampUsec":	41954,
+	"FrameNumber":	205,
+	"Occupancy":	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+} {
+	"NodeID":	65535,
+	"MAC":	"3a:61:32:00:99:a8",
+	"DataType":	9,
+	"NbrChains":	1,
+	"NbrStrips":	16,
+	"TimeStampSec":	47,
+	"TimeStampUsec":	52006,
+	"FrameNumber":	206,
+	"Occupancy":	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+} 
